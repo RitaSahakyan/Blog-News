@@ -37,7 +37,7 @@ export default {
         border-radius: 50px 50px 0 0;
         background-color: #ffffff;
         top: 39.5%;
-        left: 41.5%;
+        left: 36.5%;
     }
     .header_heading{
         font-size: 50px;
